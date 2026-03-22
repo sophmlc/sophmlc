@@ -6,4 +6,4 @@
 
 💡 Interested in making AI practical
 
-📫 sophiemlclarke@gmail.com
+📫 sophie@vizavi.co.uk
