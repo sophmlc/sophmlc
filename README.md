@@ -1,10 +1,9 @@
-👋 Hi, I’m @sophmlc
+👋 Hi, I'm @sophmlc
 
-👀 I’m interested in data visualisation
+👀 I'm interested in data, AI and automation — and helping others get there too
 
-📫 You can reach me at: sophiemlclarke@gmail.com
+🌱 Currently building: AI-powered web apps and Python automation tools
 
-<!---
-sophmlc/sophmlc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Interested in making AI practical
+
+📫 sophiemlclarke@gmail.com
